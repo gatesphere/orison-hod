@@ -12,4 +12,4 @@
 #
 
 ## scrape data
-ps -ef >> $ORIHOD_OUT/ps.out
+ps -ef > $ORIHOD_OUT/ps.out

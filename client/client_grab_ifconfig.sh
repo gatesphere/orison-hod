@@ -5,11 +5,11 @@
 # https://github.com/gatesphere/orison-hod
 # License: BSD
 #
-# Gather free data
+# Gather ifconfig data
 #
 # Jacob Peck
 # 20120917
 #
 
 ## scrape data
-free -lt > $ORIHOD_OUT/free.out
+ifconfig -a > $ORIHOD_OUT/ifconfig.out

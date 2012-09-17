@@ -12,4 +12,4 @@
 #
 
 ## scrape data
-uname -a >> $ORIHOD_OUT/uname.out
+uname -a > $ORIHOD_OUT/uname.out

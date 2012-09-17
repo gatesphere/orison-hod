@@ -12,4 +12,4 @@
 #
 
 ## scrape data
-uptime >> $ORIHOD_OUT/uptime.out
+uptime > $ORIHOD_OUT/uptime.out
